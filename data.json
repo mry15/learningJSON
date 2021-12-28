@@ -1,0 +1,17 @@
+[
+{
+    "id": 0,
+    "steps": [
+        {
+        "id": 0,
+        "title": "Profil Créé",
+        "description": "Vous avez créé votre profil avec succes!"
+        },
+        {
+        "id": 1,
+        "title": "Détails",
+        "description": "Dites nous en plus sur toi!"
+        }
+        ]
+        }
+]
